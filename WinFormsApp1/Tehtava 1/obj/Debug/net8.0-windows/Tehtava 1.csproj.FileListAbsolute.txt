@@ -14,3 +14,20 @@ C:\Users\Omistaja\source\repos\C sharp\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-w
 C:\Users\Omistaja\source\repos\C sharp\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.pdb
 C:\Users\Omistaja\source\repos\C sharp\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.genruntimeconfig.cache
 C:\Users\Omistaja\source\repos\C sharp\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\ref\Tehtava 1.dll
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\bin\Debug\net8.0-windows\Tehtava 1.exe
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\bin\Debug\net8.0-windows\Tehtava 1.deps.json
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\bin\Debug\net8.0-windows\Tehtava 1.runtimeconfig.json
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\bin\Debug\net8.0-windows\Tehtava 1.dll
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\bin\Debug\net8.0-windows\Tehtava 1.pdb
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava_1.Form1.resources
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.csproj.GenerateResource.cache
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.AssemblyInfoInputs.cache
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.AssemblyInfo.cs
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.sourcelink.json
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.dll
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\refint\Tehtava 1.dll
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.pdb
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\Tehtava 1.genruntimeconfig.cache
+C:\Users\Omistaja\GitHub\CsharpForms-parityo\WinFormsApp1\Tehtava 1\obj\Debug\net8.0-windows\ref\Tehtava 1.dll
